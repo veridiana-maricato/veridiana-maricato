@@ -45,7 +45,7 @@ Deploy: https://claudiacutler.netlify.app
 Repository: https://github.com/veridiana-maricato/marketplace-ecofashion  
 Deploy: ecofashionstore.netlify.app
 
-* CPF validator :provides an easy way for the user to check weather a CFP is valid or not.  
+* CPF validator :provides an easy way for the user to check weather a CPF is valid or not.  
 Repository: https://github.com/veridiana-maricato/validadordepf
 Deploy: http://127.0.0.1:5500/index.html?cpf=468.223.478-10
 
