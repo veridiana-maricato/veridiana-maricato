@@ -43,10 +43,10 @@ Deploy: https://claudiacutler.netlify.app
 
 * Marketplace 'Ecofashion', currently on development for a fashion startup that promotes sustainable consumption.  
 Repository: https://github.com/veridiana-maricato/marketplace-ecofashion  
-Deploy: ecofashionstore.netlify.app
+Deploy: https://ecofashionstore.netlify.app
 
 * CPF validator: provides an easy way for the user to check weather a CPF is valid or not.  
 Repository: https://github.com/veridiana-maricato/validadordepf  
-Deploy: easycpfvalidator.netlify.app
+Deploy: https://easycpfvalidator.netlify.app
 
 
