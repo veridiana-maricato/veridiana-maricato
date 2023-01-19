@@ -1,6 +1,6 @@
 # Veridiana Maricato
 
-#### Welcome! I work as a front-end developer, combining web design skills and critical thinking hability with programming logic to create new projects and solve problems. I am passionate about everything that involves logic and creativity.  
+#### Welcome! I work as a front-end developer, combining web design skills and critical thinking ability with programming logic to create new projects and solve problems. I am passionate about everything that involves logic and creativity.  
 
 Pronouns: she/her
 
