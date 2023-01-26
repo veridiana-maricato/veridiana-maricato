@@ -36,6 +36,12 @@ E-mail: maricato.veridiana@gmail.com
 
 ### Check out some of my projects:
 
+
+
+* Photo blog developed with React, using Firebase and Firestore as database and development platform.  
+Repository: https://github.com/veridiana-maricato/photo-blog  
+Deploy: https://photo-blog-ecru.vercel.app/
+
 * Website 'Odoyá' developed for a granola selling company in São Paulo, Brazil.  
 Repository: https://github.com/veridiana-maricato/site-odoya  
 Deploy: https://odoyagranola.netlify.app/
@@ -44,12 +50,8 @@ Deploy: https://odoyagranola.netlify.app/
 Repository: https://github.com/veridiana-maricato/site-ballet  
 Deploy: https://claudiacutler.netlify.app   
 
-* Marketplace 'Ecofashion', currently in development for a fashion startup that promotes sustainable consumption.  
-Repository: https://github.com/veridiana-maricato/marketplace-ecofashion  
-Deploy: https://ecofashionstore.netlify.app
-
-* CPF validator: provides an easy way for the user to check wether a CPF is valid or not.  
-Repository: https://github.com/veridiana-maricato/validadordepf  
-Deploy: https://easycpfvalidator.netlify.app
+* CPF validator and generator: checks if a CPF is valid or not, and generates valid CPFs. 
+Repository: https://github.com/veridiana-maricato/cpf-validator-generator  
+Deploy: https://geradorevalidadordecpf.netlify.app/
 
 
