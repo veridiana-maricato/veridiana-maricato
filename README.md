@@ -43,8 +43,8 @@ Repository: https://github.com/veridiana-maricato/photo-blog
 Deploy: https://photo-blog-ecru.vercel.app/
 
 * Website 'Odoyá' developed for a granola selling company in São Paulo, Brazil.  
-Repository: https://github.com/veridiana-maricato/site-odoya  
-Deploy: https://odoyagranola.netlify.app/
+Repository: https://github.com/veridiana-maricato/odoya_react  
+Deploy: https://odoya-react.vercel.app/
 
 * Website 'Claudia Cutler Ballet' developed for a ballet company in Montreal, Canada.  
 Repository: https://github.com/veridiana-maricato/site-ballet  
