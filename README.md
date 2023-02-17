@@ -14,6 +14,10 @@ E-mail: maricato.veridiana@gmail.com
 
 ##
 
+<!-- -   Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=veridiana-maricato)](https://github.com/anuraghazra/github-readme-stats) -->
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Veridiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Veridiana-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -22,6 +26,7 @@ E-mail: maricato.veridiana@gmail.com
   <img align="center" alt="Veridiana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Veridiana-SASS" height="30" width="40" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
     <img align="center" alt="Veridiana-Webpack" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg"> 
+  <img align="center" background-color="white" alt="Veridiana-Express" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
   
 </div>
 
@@ -46,12 +51,8 @@ Deploy: https://photo-blog-ecru.vercel.app/
 Repository: https://github.com/veridiana-maricato/odoya_react  
 Deploy: https://odoya-react.vercel.app/
 
-* Website 'Claudia Cutler Ballet' developed for a ballet company in Montreal, Canada.  
-Repository: https://github.com/veridiana-maricato/site-ballet  
-Deploy: https://claudiacutler.netlify.app   
+* Contact book app developed with Node.js, Express and MongoDB.  
+Repository: https://github.com/veridiana-maricato/agenda   
 
-* CPF validator and generator: checks if a CPF is valid or not, and generates valid CPFs. 
-Repository: https://github.com/veridiana-maricato/cpf-validator-generator  
-Deploy: https://geradorevalidadordecpf.netlify.app/
 
 
