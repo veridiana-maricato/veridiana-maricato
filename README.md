@@ -42,6 +42,9 @@ E-mail: maricato.veridiana@gmail.com
 ### Check out some of my projects:
 
 
+* Promptopia blog, developed with Next.js.  
+Repository: https://github.com/veridiana-maricato/shared_prompts   
+Deploy: https://shared-prompts-delta.vercel.app/
 
 * Photo blog developed with React, using Firebase and Firestore as database and development platform.  
 Repository: https://github.com/veridiana-maricato/photo-blog  
@@ -51,8 +54,6 @@ Deploy: https://photo-blog-ecru.vercel.app/
 Repository: https://github.com/veridiana-maricato/odoya_react  
 Deploy: https://odoya-react.vercel.app/
 
-* Contact book app developed with Node.js, Express and MongoDB.  
-Repository: https://github.com/veridiana-maricato/agenda   
 
 
 
